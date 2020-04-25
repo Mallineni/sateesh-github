@@ -1,1 +1,2 @@
 1)Created a folder with this file and commiting to a branch, but not to master.
+2)Nw modified in this Branch file
